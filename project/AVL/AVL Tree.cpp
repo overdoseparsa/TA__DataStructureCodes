@@ -1,4 +1,4 @@
-//Ali Yadollahi 4011406161
+
 #include <iostream>
 using namespace std;
 

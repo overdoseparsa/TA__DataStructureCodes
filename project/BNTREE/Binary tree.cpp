@@ -1,5 +1,3 @@
-//AliYadollahi 4011406161
-
 
 #include <iostream>
 
